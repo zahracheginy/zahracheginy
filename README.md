@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Zahra! I'm doing python.I'm writing [How to Vibe Code](https://github.com/zahracheginiy/how-to-vibecode). support me with a ⭐
+I'm Zahra! I'm doing python.I'm writing [How to Vibe Code](https://github.com/zahracheginy/how-to-vibecode) support me with a ⭐
 
 <!--
 **zahracheginy/zahracheginy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
